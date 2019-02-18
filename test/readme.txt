@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git tracks changes of files.
-add commit merge
+add commit merge merge
